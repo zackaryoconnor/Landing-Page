@@ -1,5 +1,5 @@
 :root {
-  --main-social-icon-size: 5vh;
+  --main-social-icon-size: 44px;
 }
 
 * {
@@ -18,12 +18,12 @@ html {
 /* global */
 h1 {
   color: white;
-  font-size: 5.5vh;
+  font-size: 5.6vh;
 }
 
 p {
   color: white;
-  font-size: 3vh;
+  font-size: 3.5vh;
   font-weight: 300;
 }
 
